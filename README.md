@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Evandro Filho "Whiskyrie" 👋
 
-- 📚 Atualmente estudando **JavaScript**, **React.js**, **Node.js** e **Nest.js**. Sempre buscando evoluir e aprender novas tecnologias!
+- 📚 Atualmente estudando **JavaScript**, **C#**, **Node.js** e **Nest.js**. Sempre buscando evoluir e aprender novas tecnologias!
 
 - 🎓 Cursando **Ciência da Computação** na **UTFPR**.
 
