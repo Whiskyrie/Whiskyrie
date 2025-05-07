@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 <h1 align="center">Evandro Filho | Whiskyrie 🚀</h1>
@@ -16,7 +16,6 @@ Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualm
 * 💬 Pergunte-me sobre desenvolvimento BackEnd e arquitetura de software
 
 ## Tecnologias e Ferramentas 🛠️
-
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -29,7 +28,6 @@ Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualm
 </div>
 
 ## Estatísticas GitHub 📊
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whiskyrie&show_icons=true&theme=radical&border_radius=20&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiskyrie&layout=compact&langs_count=8&theme=radical&border_radius=20&hide_border=true" />
@@ -57,7 +55,11 @@ Contribuições para qualquer um dos meus repositórios são bem-vindas! Sinta-s
 ⭐ Gostou deste perfil? Deixe uma estrela no meu repositório!
 
 <div align="center">
-  <img alt="GitHub Snake Animation" src="https://github.com/Whiskyrie/Whiskyrie/blob/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Whiskyrie/Whiskyrie/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Whiskyrie/Whiskyrie/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://github.com/Whiskyrie/Whiskyrie/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <div align="center">
