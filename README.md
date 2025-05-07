@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9645F4&center=true&vCenter=true&width=435&lines=Desenvolvedor+BackEnd;Estudante+de+Ciência+da+Computação;Apaixonado+por+Tecnologia" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9645F4&center=true&vCenter=true&width=435&lines=Desenvolvedor+BackEnd;"/>
   </a>
 </div>
 
@@ -40,11 +40,6 @@ Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualm
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Whiskyrie&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
-
-## Projetos em Destaque 💼
-TransportManager
-Sistema de gerenciamento de transporte desenvolvido com tecnologias modernas.
- <!-- Você pode adicionar mais projetos quando estiverem disponíveis --> 
 
 ## Educação 🎓
 * **Ciência da Computação** - Universidade Tecnológica Federal do Paraná (UTFPR)
