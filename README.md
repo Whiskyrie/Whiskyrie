@@ -37,10 +37,6 @@ Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualm
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Whiskyrie&theme=dracula&hide_border=true&border_radius=20" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Whiskyrie&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" />
-</div>
-
 ## Educação 🎓
 * **Ciência da Computação** - Universidade Tecnológica Federal do Paraná (UTFPR)
 
