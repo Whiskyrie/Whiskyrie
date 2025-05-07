@@ -12,9 +12,6 @@
 
 ## Sobre Mim 👨‍💻
 Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualmente cursando **Ciência da Computação** na **UTFPR** e apaixonado por criar soluções tecnológicas que impactam positivamente a vida das pessoas.
-* 🔭 Trabalhando no projeto **TransportManager**
-* 🌱 Aprimorando conhecimentos em **JavaScript**, **C#**, **Node.js** e **Nest.js**
-* 💡 Sempre buscando evoluir e aprender novas tecnologias
 * 🚀 Procurando colaborar em projetos de código aberto
 * 💬 Pergunte-me sobre desenvolvimento BackEnd e arquitetura de software
 
