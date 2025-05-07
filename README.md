@@ -8,7 +8,7 @@
 ## 🎧 Ouvindo agora
 <div align="center">
   <a href="https://open.spotify.com/user/31uil4kzeud46i4qcy4bpii7cdca">
-    <img src="https://novatorem-spotify-playing.vercel.app/api/spotify" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31uil4kzeud46i4qcy4bpii7cdca&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </div>
 
