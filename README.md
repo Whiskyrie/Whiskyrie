@@ -29,12 +29,12 @@ Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualm
 
 ## Estatísticas GitHub 📊
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whiskyrie&show_icons=true&theme=dracula&border_radius=20&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiskyrie&layout=compact&langs_count=8&theme=dracula&border_radius=20&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whiskyrie&show_icons=true&theme=shadow_red&border_radius=20&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiskyrie&layout=compact&langs_count=8&theme=shadow_red&border_radius=20&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Whiskyrie&theme=dracula&hide_border=true&border_radius=20" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Whiskyrie&theme=shadow_red&hide_border=true&border_radius=20" />
 </div>
 
 ## Educação 🎓
