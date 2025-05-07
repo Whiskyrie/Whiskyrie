@@ -33,9 +33,6 @@ Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualm
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiskyrie&layout=compact&langs_count=8&theme=midnight-purple&border_radius=20&hide_border=true" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Whiskyrie&theme=swift&hide_border=true&border_radius=20" />
-</div>
 
 
 ## Educação 🎓
