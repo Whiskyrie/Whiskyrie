@@ -34,7 +34,7 @@ Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualm
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Whiskyrie&theme=radical&hide_border=true&border_radius=20" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Whiskyrie&theme=midnight-purple&hide_border=true&border_radius=20" />
 </div>
 
 
