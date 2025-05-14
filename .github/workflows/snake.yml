@@ -6,10 +6,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
 
-      - name: Gerar SVG do Snake
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         id: snake
         with:
@@ -17,19 +20,20 @@ jobs:
           outputs: |
             dist/github-snake.svg
 
-      - name: Ajustar tamanho do SVG via xmlstarlet
+      - name: Ensure dist directory exists
         run: |
-          # Exemplo: dobra a escala a cada execução (pode usar ${{ steps.snake.outputs.commit_count }})
-          SCALE_FACTOR=2
-          WIDTH=$((600 * SCALE_FACTOR))
-          HEIGHT=$((110 * SCALE_FACTOR))
-          xmlstarlet ed -N ns="http://www.w3.org/2000/svg" \
-            -u "//ns:svg/@width" -v "${WIDTH}" \
-            -u "//ns:svg/@height" -v "${HEIGHT}" \
-            dist/github-snake.svg > dist/github-snake-scaled.svg
+          mkdir -p dist
+
+      - name: Adjust SVG size in-place
+        run: |
+          xmlstarlet ed --inplace \
+            -N ns="http://www.w3.org/2000/svg" \
+            -u "//ns:svg/@width" -v "800" \
+            -u "//ns:svg/@height" -v "200" \
+            dist/github-snake.svg
 
       - name: Commit and Push Scaled SVG
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'dist/github-snake-scaled.svg'
+          add: 'dist/github-snake.svg'
           message: 'feat: grow snake graphic'
