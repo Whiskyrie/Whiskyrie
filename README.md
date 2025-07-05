@@ -24,9 +24,19 @@ Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualm
 
 ## Estatísticas GitHub 📊
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whiskyrie&show_icons=true&theme=midnight-purple&border_radius=20&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiskyrie&layout=compact&langs_count=8&theme=midnight-purple&border_radius=20&hide_border=true" />
+  <img
+    height="200em"
+    src="https://github-readme-stats.vercel.app/api?username=Whiskyrie&show_icons=true&theme=midnight-purple&border_radius=20&include_all_commits=true&count_private=true&hide_border=true"
+  />
 </div>
+
+<div align="center">
+  <img
+    height="300em"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiskyrie&layout=compact&langs_count=8&theme=midnight-purple&border_radius=20&hide_border=true"
+  />
+</div>
+
 
 ## Educação 🎓
 * **Ciência da Computação** - Universidade Tecnológica Federal do Paraná (UTFPR)
