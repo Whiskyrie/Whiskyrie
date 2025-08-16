@@ -26,14 +26,16 @@ Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualm
 <div align="center">
   <img
     height="150em"
-    src="https://github-readme-stats.vercel.app/api?username=Whiskyrie&show_icons=true&theme=midnight-purple&border_radius=20&include_all_commits=true&count_private=true&hide_border=true"
+    width ="200em"
+    src="https://github-readme-stats.vercel.app/api?username=Whiskyrie&show_icons=true&theme=shadow_red&border_radius=20&include_all_commits=true&count_private=true&hide_border=true"
   />
 </div>
 
 <div align="center">
   <img
     height="150em"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiskyrie&layout=compact&langs_count=8&theme=midnight-purple&border_radius=20&hide_border=true"
+    width ="200em"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiskyrie&layout=compact&langs_count=8&theme=shadow_red&border_radius=20&hide_border=true"
   />
 </div>
 
