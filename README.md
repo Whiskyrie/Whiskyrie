@@ -19,7 +19,7 @@ Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualm
 
 ## Tecnologias e Ferramentas 🛠️
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cs,nestjs,postgres,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cs,nestjs,postgres,vscode,git,ruby,rails" />
 </p>
 
 ## Estatísticas GitHub 📊
