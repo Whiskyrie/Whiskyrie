@@ -23,25 +23,23 @@ Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualm
 </p>
 
 ## Estatísticas GitHub 📊
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img
     height="150em"
+    style="min-width: 300px; flex: 1;"
     src="https://github-readme-stats.vercel.app/api?username=Whiskyrie&show_icons=true&theme=midnight-purple&border_radius=20&include_all_commits=true&count_private=true&hide_border=true"
   />
-</div>
-
-<div align="center">
   <img
     height="150em"
+    style="min-width: 300px; flex: 1;"
+    src="https://streak-stats.demolab.com/?user=Whiskyrie&layout=compact&langs_count=8&theme=midnight-purple&border_radius=20&hide_border=true"
+  />
+  <img
+    height="150em"
+    style="min-width: 300px; flex: 1;"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiskyrie&layout=compact&langs_count=8&theme=midnight-purple&border_radius=20&hide_border=true"
   />
 </div>
-<div align="center">
-  <img
-    height="150em"
-    src="https://streak-stats.demolab.com/?user=Whiskyrie&layout=compact&langs_count=8&theme=midnight-purple&border_radius=20&hide_border=true"
-  />
-
 
 ## Educação 🎓
 * **Ciência da Computação** - Universidade Tecnológica Federal do Paraná (UTFPR)
