@@ -53,7 +53,3 @@ Contribuições para qualquer um dos meus repositórios são bem-vindas! Sinta-s
     <img alt="GitHub Snake Animation" src="https://github.com/Whiskyrie/Whiskyrie/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Whiskyrie/count.svg" alt="Contador de Visitantes" />
-</p>
