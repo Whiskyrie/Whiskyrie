@@ -30,7 +30,7 @@ Olá! Sou o Evandro, desenvolvedor BackEnd com conhecimentos em FrontEnd. Atualm
   />
   <img
     height="150em"
-    src="https://streak-stats.demolab.com/?user=Whiskyrie&theme=midnight-purple&hide_border=true&border_radius=20"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Whiskyrie&theme=midnight-purple&hide_border=true&border_radius=20"
   />
   <img
     height="150em"
