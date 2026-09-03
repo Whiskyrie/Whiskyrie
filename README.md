@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-End;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;NestJS+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&width=520&height=60&lines=Desenvolvedor+Back-End;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;NestJS+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31uil4kzeud46i4qcy4bpii7cdca&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uil4kzeud46i4qcy4bpii7cdca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify - tocando agora" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uil4kzeud46i4qcy4bpii7cdca&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify - tocando agora" />
   </a>
 </p>
 
