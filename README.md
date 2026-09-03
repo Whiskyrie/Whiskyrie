@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&width=520&height=60&lines=Desenvolvedor+Back-End;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;NestJS+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-End" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,13 +30,16 @@ Olá! Sou o Evandro, desenvolvedor Back-End com conhecimentos em Front-End. Atua
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Whiskyrie&show_icons=true&theme=midnight-purple&border_radius=20&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
   <img height="150em" src="https://streak-stats.demolab.com?user=Whiskyrie&theme=midnight-purple&hide_border=true&border_radius=20" alt="Sequência de contribuições" />
 </div>
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Whiskyrie&layout=compact&langs_count=8&theme=midnight-purple&border_radius=20&hide_border=true" alt="Linguagens mais usadas" />
-</div>
+<!--
+  Card de métricas gerado por GitHub Actions (.github/workflows/metrics.yml).
+  Descomente esta linha depois que o workflow "Metrics" rodar com sucesso pela 1ª vez
+  (ele cria o branch `metrics` com o arquivo github-metrics.svg):
+  <img src="https://raw.githubusercontent.com/Whiskyrie/Whiskyrie/metrics/github-metrics.svg" alt="Métricas do GitHub" />
+-->
+
 
 ## Educação
 
